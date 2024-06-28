@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": process.env.token,
     "everyoneMention": false,
     "hostedBy": true,
     "guildId": ""
